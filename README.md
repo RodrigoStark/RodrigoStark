@@ -31,7 +31,7 @@ Sou futuro DEV seja na área de Games ou não e estou a procura de uma primeira 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoStark&show_icons=true&theme=merko)
 
 ## Studying
-
+<br>
 <img align="center" alt="C#" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
